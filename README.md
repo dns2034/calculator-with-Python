@@ -32,4 +32,4 @@ A basic command-line calculator that performs arithmetic operations (addition, s
 ## Running the Calculator
 Simply execute the Python script:
 ```bash
-python calculator.py
+python calcu.py
